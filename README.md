@@ -6,11 +6,7 @@
 - Kushan
 
 ### Version
-<<<<<<< HEAD
-**0.3.0**
-=======
-**0.2.0**
->>>>>>> Uthpala
+**0.4.0**
 
 ### License
 Copyright (c) 2025 DEP 13.All Right Reserved.
