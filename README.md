@@ -6,7 +6,7 @@
 - Kushan
 
 ### Version
-**0.1.0**
+**0.2.0**
 
 ### License
 Copyright (c) 2025 DEP 13.All Right Reserved.
